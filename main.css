@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')
+ *{
+        box-sizing: border-box;
+}
+
+.body{
+    font-family: Roboto;
+}
+
+.h1,h2{
+    font-family: Open Sans;
+}
+.topnav{
+    background-color: #DDFFE7;
+}
+.header{
+    background-color: #EF7C8E;
+    color: #FAE8E0;
+    border: 2px solid #000000;
+}
+.container {
+    background-color: #B6E2D3, 
+}
+.topnav ul {
+    color: #D8A7B1;
+    background-color: #167D7F;
+    border: 2px solid #000000;
+    border-radius: 2px double #000000;
+}
+.div{
+    border: 1px solid #000000;
+}
+.banner{
+    text-align: center;
+    background-color: #;
+}
+.col-3 {
+  width: 30%;
+  border: 5px double #000000;
+  border-radius: 5px;
+background-color: #ffffff;
+    float: left;
+}
+ .col-6 {
+width: 60%;
+  padding: 10px;
+  border: 3px double #000000;
+  border-radius: 5px;
+background-color: #ffffff;
+     float: right;
+}
+.col-3 p{
+    background-color: #98D7C2; 
+    padding: 2px;
+    color: #2F5233; 
+    
+}
+.footer{
+    clear: both;
+    background-color:#29A0B1;
+    color: #000000;
+} 
+.footer a{
+    color: #94C973;
+}
+
